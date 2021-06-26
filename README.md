@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chaurasia</h1>
 <h3 align="center">I'm passionate to do Programming</h3>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on **Web Development(Front-End)**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
